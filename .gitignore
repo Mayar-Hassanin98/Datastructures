@@ -4,4 +4,6 @@
 **.depend
 bin/
 obj/
-
+**.pdf
+**.exe
+**.o
